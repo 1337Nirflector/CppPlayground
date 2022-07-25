@@ -1,0 +1,8 @@
+//
+// Created by hd on 25.07.2022.
+//
+
+#ifndef UNTITLED_TICKETOFFICE_H
+#define UNTITLED_TICKETOFFICE_H
+
+#endif //UNTITLED_TICKETOFFICE_H
